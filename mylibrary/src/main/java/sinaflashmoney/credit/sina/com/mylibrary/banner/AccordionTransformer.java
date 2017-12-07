@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.sina.credit.binnertest;
+package sinaflashmoney.credit.sina.com.mylibrary.banner;
 
 import android.view.View;
 

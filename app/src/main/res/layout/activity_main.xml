@@ -6,9 +6,9 @@
     android:layout_height="match_parent"
     tools:context="com.sina.credit.binnertest.MainActivity">
 
-   <com.sina.credit.binnertest.Banner
+   <sinaflashmoney.credit.sina.com.mylibrary.banner.Banner
        android:id="@+id/banner"
        android:layout_width="match_parent"
        android:layout_height="240dp">
-   </com.sina.credit.binnertest.Banner>
+   </sinaflashmoney.credit.sina.com.mylibrary.banner.Banner>
 </RelativeLayout>

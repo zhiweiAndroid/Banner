@@ -1,4 +1,4 @@
-package com.sina.credit.binnertest;
+package sinaflashmoney.credit.sina.com.mylibrary.banner;
 
 import android.os.Handler;
 import android.os.Looper;

@@ -8,7 +8,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity implements OnBannerListener{
+import sinaflashmoney.credit.sina.com.mylibrary.banner.AccordionTransformer;
+import sinaflashmoney.credit.sina.com.mylibrary.banner.Banner;
+import sinaflashmoney.credit.sina.com.mylibrary.banner.GlideImageLoader;
+import sinaflashmoney.credit.sina.com.mylibrary.banner.OnBannerListener;
+
+public class MainActivity extends AppCompatActivity implements OnBannerListener {
 
     private Banner banner;
     public static List<?> images=new ArrayList<>();
